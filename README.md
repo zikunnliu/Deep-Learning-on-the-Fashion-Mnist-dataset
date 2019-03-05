@@ -1,3 +1,3 @@
 # fashion-mnist
 2018 UF DL summer workshop final project
-![image text](http://mail.ustc.edu.cn/coremail/XT3/nf/doGetFile.jsp?mid=1%3a1tbiAQkAEVQhmnpRdwAAsq&sid=BAllTAMMtfTHppfZRjMMTnsBLfEfWmcp)
+![image text](https://github.com/lzkearth/imagefolder/blob/master/image%20of%20UF/final-5_%E9%A1%B5%E9%9D%A2_02.jpg)
